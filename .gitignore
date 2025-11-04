@@ -6,9 +6,19 @@ venv/
 .ipynb_checkpoints/
 
 # data
-
+data/raw/
+data/processed/
+data/external/
+*.zip
+*.shp
+*.dbf
+*.shx
+*.prj
+*.gpkg
 # os
+
 .DS_Store
 venv/
+
 
 
