@@ -1,4 +1,4 @@
-\# Urban Green Space \& Neighborhood Change
+# Urban Green Space \& Neighborhood Change
 
 
 
@@ -6,7 +6,7 @@ This project explores how access to parks and green spaces affects neighborhood 
 
 
 
-\## Research Question
+## Research Question
 
 Do urban green investments benefit existing residents, or accelerate displacement?
 
@@ -14,6 +14,6 @@ We combine spatial data, demographic trends, and behavioral metrics to estimate 
 
 
 
-\## Setup 
+## Setup 
 do `pip install -r requirements.txt` to install dependencies
 
