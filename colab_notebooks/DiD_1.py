@@ -10,8 +10,8 @@ from tqdm import tqdm
 # Enable tqdm for pandas
 tqdm.pandas()
 
-fred = Fred(api_key='e63d55421ffde2bc5fcf5bac2729b07c')
-c = Census('fa1a581b06fc261677d28e57bc4647a9039f822b')
+fred = Fred(api_key='123')
+c = Census('2139f822b')
 
 # load income data from census api
 # Try ACS 1-year estimates (2005+, annual but less reliable) then fall back to 5-year (2009+, more reliable)
